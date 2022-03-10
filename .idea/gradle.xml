@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/generator" />
+            <option value="$PROJECT_DIR$/mod10recyclerview" />
+            <option value="$PROJECT_DIR$/mod10tp_pays_rv" />
+            <option value="$PROJECT_DIR$/mod2tp1" />
+            <option value="$PROJECT_DIR$/mod4demodatabinding" />
+            <option value="$PROJECT_DIR$/mod4demos" />
+            <option value="$PROJECT_DIR$/mod4tpVraiFaux" />
+            <option value="$PROJECT_DIR$/mod5nav" />
+            <option value="$PROJECT_DIR$/mod5navdrawer" />
+            <option value="$PROJECT_DIR$/mod5tp02unehistoire" />
+            <option value="$PROJECT_DIR$/mod5tpcolorme" />
+            <option value="$PROJECT_DIR$/mod6intent" />
+            <option value="$PROJECT_DIR$/mod6nemoubliepas" />
+            <option value="$PROJECT_DIR$/mod7" />
+            <option value="$PROJECT_DIR$/mod7compteur" />
+            <option value="$PROJECT_DIR$/mod7lancerde" />
+            <option value="$PROJECT_DIR$/mod9room" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

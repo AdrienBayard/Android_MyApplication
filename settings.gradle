@@ -1,0 +1,33 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "My Application"
+include ':app'
+include ':mod2tp1'
+include ':mod4demos'
+include ':generator'
+include ':mod4demodatabinding'
+include ':mod4tpVraiFaux'
+include ':mod5nav'
+include ':mod5tpcolorme'
+include ':mod5tp02unehistoire'
+include ':mod5navdrawer'
+include ':mod6intent'
+include ':mod6nemoubliepas'
+include ':mod7'
+include ':mod7compteur'
+include ':mod7lancerde'
+include ':mod9room'
+include ':mod10recyclerview'
+include ':mod10tp_pays_rv'
